@@ -216,4 +216,4 @@ A companion Python orchestrator (`remix_orchestrator.py`, distributed separately
 
 ## License
 
-MIT.
+Apache 2.0
