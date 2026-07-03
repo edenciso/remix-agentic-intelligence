@@ -1,4 +1,4 @@
-# Remix Intelligence Studio
+# Remix Agentic Intelligence Studio
 
 A six-agent orchestration that ingests a weekly batch of cross-functional signals — customer calls, support tickets, product feedback, sales notes, internal updates — and produces a CEO-ready decision memo with evidence-backed themes, contradictions, recommendations, and calibrated confidence.
 
